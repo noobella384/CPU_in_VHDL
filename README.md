@@ -5,7 +5,7 @@ This project implements a 16-bit RISC CPU using VHDL. The CPU is designed for mu
 
 The design includes a complete set of components such as an Arithmetic Logic Unit (ALU), Register File, Memory Unit, Multiplexers, and Control Logic. It executes instructions in multiple cycles—fetching, decoding, executing, and writing back data.
 
-For more details on the problem statement, refer to the Project Question Paper PDF.
+For more details on the problem statement, refer to the [Project Question Paper PDF](Project_Question_Paper.pdf).
 
 ## Features
 - **16-bit RISC ISA**: Implements a reduced instruction set, categorized into R-Type, I-Type, and J-Type instructions.
@@ -86,6 +86,6 @@ The CPU executes instructions in the following steps:
 - **Quartus Prime**: For synthesizing and verifying the hardware implementation.
 
 ## Documentation
-- **Project Question Paper PDF**: Contains the original problem statement.
-- **Final Report PDF**: Detailed report of the project, including the design methodology and results.
+- **[Project Question Paper PDF](Project_Question_Paper.pdf)**: Contains the original problem statement.
+- **[Final Report](Final_Report_CPU.pdf)**: Detailed report of the project, including the design methodology and results.
 
